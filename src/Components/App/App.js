@@ -1,4 +1,3 @@
-import logo from "../../Assets/logo.svg";
 import "./App.css";
 import Item from "../Item/Item";
 
